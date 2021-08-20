@@ -1,0 +1,23 @@
+const venezuela = [];
+
+venezuela.push({name: "Bryan", salary: 500});
+venezuela.push({name: "Katherine", salary: 200});
+venezuela.push({name: "Emanuel", salary: 500});
+venezuela.push({name: "Angelica", salary: 200});
+venezuela.push({name: "Jose", salary: 500});
+venezuela.push({name: "Manuel", salary: 100});
+venezuela.push({name: "Lisbeth", salary: 50});
+venezuela.push({name: "Eva", salary: 1000});
+venezuela.push({name: "Gabriel", salary: 600});
+venezuela.push({name: "Juan", salary: 150});
+venezuela.push({name: "Victor", salary: 1000});
+venezuela.push({name: "David", salary: 700});
+venezuela.push({name: "Daniela", salary: 100});
+venezuela.push({name: "Daniel", salary: 60});
+venezuela.push({name: "Sebastian", salary: 140});
+venezuela.push({name: "Alejandra", salary: 300});
+venezuela.push({name: "Ana ", salary: 400});
+venezuela.push({name: "Maria", salary: 200});
+venezuela.push({name: "Miguel", salary: 200});
+venezuela.push({name: "Peter", salary: 100});
+venezuela.push({name: "Felipe", salary: 200});
